@@ -55,7 +55,7 @@ const Skills = () => {
             <p>
               Visit my <a href="https://www.linkedin.com/feed/">LinkedIn</a>{' '}
               profile for more details. Also you can checkout my cv on this{' '}
-              <a href="#">link</a>, or feel free to contact me.
+              <a href="https://my.newtonschool.co/user/ak3754732/">link</a>, or feel free to contact me.
             </p>
           </div>
         </div>
