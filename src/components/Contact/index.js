@@ -87,6 +87,7 @@ const Contact = () => {
         </div>
         <iframe
           className="map"
+          title='output'
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227159.681145667!2d77.8399241900679!3d27.176104915971635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39740d857c2f41d9%3A0x784aef38a9523b42!2sAgra%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1671100329875!5m2!1sen!2sin"
         ></iframe>
       </div>
