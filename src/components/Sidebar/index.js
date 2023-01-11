@@ -1,5 +1,5 @@
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { faBars, faClose, faEnvelope, faEye, faGear, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faClose, faEnvelope, faGear, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useState } from 'react';
 import logos from '../../assets/images/logo-s.png'
@@ -35,14 +35,6 @@ const Sidebar = () => {
           >
           <FontAwesomeIcon icon={faGear} color="#4d4d4e" />
           </NavLink>
-          {/* <NavLink
-            exact="true"
-            className="work-link"
-            to="/mywork"
-            onClick={() => setShowNav(false)}
-          >
-          <FontAwesomeIcon icon={faEye} color="#4d4d4e" />
-          </NavLink> */}
           <NavLink
             exact="true"
             className="contact-link"
