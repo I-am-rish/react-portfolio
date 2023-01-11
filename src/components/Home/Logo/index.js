@@ -9,6 +9,7 @@ const Logo = () => {
     <div className="logo-container">
       <img
         className="solid-logo"
+        alt=""
         src={logos}
       />
 
