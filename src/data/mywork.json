@@ -7,52 +7,47 @@
             "url": "http://google.com"
         },
         {
-            "cover": "/mywork/1/one.png",
+            "cover": "/mywork/1/codeEditor.png",
             "title": "Online Code Editor",
-            "description": "HTML, CSS, React",
-            "url": "http://google.com"
+            "description": "HTML, CSS, ReactJs",
+            "url": "https://spiffy-truffle-73ba7b.netlify.app/"
+        },
+        {
+            "cover": "/mywork/1/netflix.png",
+            "title": "Netflix",
+            "description": "HTML, CSS, JS, RescJS, Redux, Node, Express, MongoDB, Firebase",
+            "url": "https://netflix-ui.onrender.com"
+        },
+        {
+            "cover": "/mywork/1/Esell.png",
+            "title": "E-Commerce Website",
+            "description": "HTML, CSS, JS",
+            "url": "https://cosmic-zabaione-3e781a.netlify.app/"
         },
         {
             "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
+            "title": "Portfolio",
+            "description": "HTML, CSS, SASS, React",
             "url": "http://google.com"
         },
         {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/mywork/1/codeEditor.png",
+            "title": "Online Code Editor",
+            "description": "HTML, CSS, ReactJs",
+            "url": "https://spiffy-truffle-73ba7b.netlify.app/"
         },
         {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/mywork/1/netflix.png",
+            "title": "Netflix",
+            "description": "HTML, CSS, JS, RescJS, Redux, Node, Express, MongoDB, Firebase",
+            "url": "https://netflix-ui.onrender.com"
         },
         {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/mywork/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/mywork/1/Esell.png",
+            "title": "E-Commerce Website",
+            "description": "HTML, CSS, JS",
+            "url": "https://cosmic-zabaione-3e781a.netlify.app/"
         }
+        
     ]
 }
