@@ -5,7 +5,7 @@ import './index.scss'
 const Layout = () => {
   return (
     <>
-    {/* // <div className="App"> */}
+    <div className="App">
       <Sidebar />
       <div className="page">
         <span className="tags top-tags">&lt;body&gt;</span>
@@ -17,7 +17,7 @@ const Layout = () => {
           <span className="bottom-tag-html">&lt;/html&gt;</span>
         </span>
       </div>
-    {/* // </div> */}
+    </div>
     </>
   )
 }

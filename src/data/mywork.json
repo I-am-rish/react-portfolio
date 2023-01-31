@@ -2,6 +2,54 @@
     "mywork": [
         {
             "cover": "/mywork/1/one.png",
+            "title": "Portfolio",
+            "description": "HTML, CSS, SASS, React",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "Online Code Editor",
+            "description": "HTML, CSS, React",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/mywork/1/one.png",
             "title": "GGWP",
             "description": "React, JSX, Tailwind, Jest",
             "url": "http://google.com"

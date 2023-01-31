@@ -36,7 +36,7 @@ const TextShpere = () => {
 
             TagCloud(container, texts, options);
         };
-    }, []);
+    });
 
   return (
     <div className="text-shpere">
